@@ -17,7 +17,9 @@ also going to have a cousin called "O.D.Y.S.S.E.U.S" who will be there to perfor
 
 I am hoping that this project is going to last, as it seems to be something worth doing.
 
-Sincerely Yours,
+Sincerely,
+
+The Primary Maintainer,
 
 Johnathan Spiva
 
