@@ -23,4 +23,4 @@ The Primary Maintainer,
 
 Johnathan Spiva
 
-P.S. If you would like to assist in this project, please contact me either at okstate.johnathan.spiva@gmail.com
+P.S. If you would like to assist in this project, please contact me at okstate.johnathan.spiva@gmail.com
