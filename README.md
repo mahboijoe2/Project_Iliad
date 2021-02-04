@@ -1,4 +1,4 @@
-# Titanfist and T.I.T.A.N
+# Titanfist, T.I.T.A.N, and O.D.Y.S.S.E.U.S.
 
 Titanfist ist the beginning of a whole new generation of CyberSecurity Tools. These will replace the industry-leading variations of tools that exist.
 These tools will go on a Operating System called T.I.T.A.N, a universally accessible operating that can be used on any platform. The general idea of this 
@@ -12,7 +12,7 @@ the primary sponsor of the project. Eventually this will be what allows for this
 
 The more that we work on this project, the more we advance GNU/Linux. Because, frankly, this will be a whole new distrobuton network for Linux. As, we are moving to 
 what we are calling decentralized and virtualized kernels, "DAVK" for short. These kernels will be hosted in secrecy to make sure that no one attempts to tamper with them.
-I utmost promise that we will have a team around the clock making sure these kernels are safe. T,I,T,A,N is not only going to be a security-based operating system, it is 
+I utmost promise that we will have a team around the clock making sure these kernels are safe. T.I.T.A.N is not only going to be a security-based operating system, it is 
 also going to have a cousin called "O.D.Y.S.S.E.U.S" who will be there to perform the heroic act of being the everyday variant for everyday users like you. 
 
 I am hoping that this project is going to last, as it seems to be something worth doing.
