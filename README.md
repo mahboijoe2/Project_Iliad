@@ -1,9 +1,8 @@
 # Titanfist, T.I.T.A.N, and O.D.Y.S.S.E.U.S.
 
-Titanfist ist the beginning of a whole new generation of CyberSecurity Tools. These will replace the industry-leading variations of tools that exist.
+Titanfist is the beginning of a whole new generation of CyberSecurity Tools. These will replace the industry-leading variations of tools that exist.
 These tools will go on a Operating System called T.I.T.A.N, a universally accessible operating that can be used on any platform. The general idea of this 
-operating system is keep it universal. This operating system will be universal, although we are accepting help, do note that this project will begin being open-source,
-and down-the-line be forked into something proprietary. 
+operating system is keeping it universal. This operating system will be universal, although we are accepting help, do note that this project will begin being open-source. 
 
 Just as clarficiation:
 
